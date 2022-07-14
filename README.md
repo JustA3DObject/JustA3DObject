@@ -1,7 +1,5 @@
 # Hi there 👋
 
-#
-
 ### I'm Aayush, a computer science student trying to make the internet a better place one site at a time. 
 
 #### Someone with an artist's ambition but an engineer's mindset. 
