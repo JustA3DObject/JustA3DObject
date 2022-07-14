@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**JustA3DObject/JustA3DObject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+### I'm Aayush, a computer science student trying to make the internet a better place one site at a time. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Someone with an artist's ambition but an engineer's mindset. 
+
+#
+
+- 🔭 I’m currently working on **A todo list app**
+- 🌱 I’m currently learning **Full stack web development** 
+- 💬 Ask me about **Backend development**
+- 💻 Languages I use: **Python, Javascript, Java and sometimes C++**
+- 📫 How to reach me: *[| Instagram |](https://www.instagram.com/just_another_3d_object) [| Telegram |](https://t.me/just_a_3d_object) [| Mail |](mailto:just.another.3d.object@gmail.com?body=Hello%20Aayush!)*
+- ⚡ Fun fact: **I put the pro in procrastination.**
