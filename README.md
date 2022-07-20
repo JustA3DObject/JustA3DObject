@@ -6,7 +6,7 @@
 
 #
 
-- 🔭 I’m currently working on **A todo list app**
+- 🔭 I’m currently working on **An instagram clone**
 - 🌱 I’m currently learning **Full stack web development** 
 - 💬 Ask me about **Backend development**
 - 💻 Languages I use: **Python, Javascript, Java and sometimes C++**
