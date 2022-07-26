@@ -12,6 +12,5 @@
 - 💻 Languages I use: **Python, Javascript, Java and sometimes C++**
 - 📫 How to reach me: *[| Instagram |](https://www.instagram.com/just_another_3d_object) [| Telegram |](https://t.me/just_a_3d_object) [| Mail |](mailto:just.another.3d.object@gmail.com?body=Hello%20Aayush!)*
 - ⚡ **I put the pro in procrastination.**
--->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustA3DObject&theme=radical)
