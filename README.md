@@ -14,4 +14,3 @@
 - ⚡ **I put the pro in procrastination.**
 
 
-![GitHub Stats]
