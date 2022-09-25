@@ -1,4 +1,4 @@
-<img align="center" width="3000" height="100" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif">
+<img align="center" width="3000" height="300" src="https://i.pinimg.com/originals/a1/e6/56/a1e656e182df7fdb585edb41726b5744.gif">
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A computer science student trying to make the internet a better place one site at a time.</h3>
 <img align="right" width="400" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FAt9KxVFySzjRm%2Fgiphy.gif&f=1&nofb=1&ipt=225ee30826e0da6464d8543de9dad99b3cbef78546f257ec38138f8faf77416a&ipo=images">
