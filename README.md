@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **just.another.3d.object@gmail.com**
 
-- ⚡ Fun fact **I put the pro in procrastination.**
+- ⚡ Fun fact **I'm lazy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
