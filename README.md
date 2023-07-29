@@ -3,7 +3,7 @@
 <h3 align="center">A computer science student trying to make the internet a better place one app at a time.</h3>
 <img align="right" width="400" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FAt9KxVFySzjRm%2Fgiphy.gif&f=1&nofb=1&ipt=225ee30826e0da6464d8543de9dad99b3cbef78546f257ec38138f8faf77416a&ipo=images">
 
-- 🔭 I’m currently working on **News Validator**
+- 🔭 I’m currently working on **Chess Engine**
 
 - 🌱 I’m currently learning **AI/ML**
 
