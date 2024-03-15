@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/justa3dobject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justa3dobject" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayush-vishnoi-5a6a8a223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-vishnoi-5a6a8a223" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-v-5a6a8a223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-vishnoi-5a6a8a223" height="30" width="40" /></a>
 <a href="https://instagram.com/just_another_3d_object" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_another_3d_object" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/just_another_3d_object" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="just_another_3d_object" height="30" width="40" /></a>
 </p>
