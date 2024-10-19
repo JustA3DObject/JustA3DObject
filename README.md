@@ -4,13 +4,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justa3dobject" alt="justa3dobject" /></a> </p>
 <img align="right" width="400" height="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FAt9KxVFySzjRm%2Fgiphy.gif&f=1&nofb=1&ipt=225ee30826e0da6464d8543de9dad99b3cbef78546f257ec38138f8faf77416a&ipo=images">
 
-- 🔭 I’m currently working on **A Chess Engine**
+- 🔭 I’m currently looking for **a new project**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Automation and Robotics**
 
-- 👯 I’m looking to collaborate on [Connect-Four-Game](https://github.com/gdsc-ipsacademy/Connect-Four-Game)
+- 👯 I’m looking to collaborate on **a new project**
 
-- 💬 Ask me about **Python, web development and SQL**
+- 💬 Ask me about **Python, web development, AI/ML, Computer Vision and Automation**
 
 - 📫 How to reach me **just.another.3d.object@gmail.com**
 
