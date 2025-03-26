@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Neural Networking](https://github.com/JustA3DObject/Neural-Networks)
 
-- 🌱 I’m currently learning **Robot Dynamics and Controls, Path Planning, Matlab, neural networking and AI/ML**
+- 🌱 I’m currently learning **Robot Dynamics and Controls, Computer Vision, Path Planning, Matlab, neural networking and AI/ML**
 
 - 👯 I’m looking to collaborate on [Facial Recognition](https://github.com/JustA3DObject/Attendance-System)
 
