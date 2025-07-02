@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Stereo Camera](https://github.com/JustA3DObject/Stereo-Camera)
 
-- 👨‍💻 All of my projects are available at [Currently working on a portfolio website...](Currently working on a portfolio website...)
+- 👨‍💻 All of my projects are available at [JustAPortfolio](https://justa3dobject.github.io/JustAPortfolio.github.io/)
 
 - 💬 Ask me about **Python, DBMS, Django, Automation, Web Development.**
 
