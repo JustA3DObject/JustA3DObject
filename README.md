@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">A Computer Science Engineer trying to make the internet a better place one app at a time.</h3>
+<h3 align="center">A Computer Science Engineer doing masters in Automation and Robotics.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justa3dobject" alt="justa3dobject" /></a> </p>
 
