@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **just.another.3d.object@gmail.com**
 
-- ⚡ Fun fact **I coined the term procrastination by putting the pro in it,**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/justa3dobject" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justa3dobject" height="30" width="40" /></a>
