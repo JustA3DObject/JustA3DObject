@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, DBMS, Django, Automation, Web Development.**
 
-- 📫 How to reach me **just.another.3d.object@gmail.com**
+- 📫 Reach me at **just.another.3d.object@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
