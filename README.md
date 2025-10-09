@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [JustAPortfolio](https://justa3dobject.github.io/JustAPortfolio.github.io/)
 
-- 💬 Ask me about **Python, DBMS, Django, Automation, Web Development.**
+- 💬 Ask me about **Python, DBMS, Robotics, Automation, Web Development.**
 
 - 📫 Reach me at **just.another.3d.object@gmail.com**
 
