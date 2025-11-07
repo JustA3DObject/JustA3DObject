@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Robot Dynamics and Controls, Computer Vision, Path Planning, Matlab, neural networking and AI/ML**
 
-- 👯 I’m looking to collaborate on [Facial Recognition](https://github.com/JustA3DObject/Attendance-System)
+- 👯 I’m looking to collaborate on [GNC for AUV](https://github.com/JustA3DObject/PLATO-Polynomial_Logrithmic_Adaptive_TrajectOry)
 
-- 🤝 I’m looking for help with [Stereo Camera](https://github.com/JustA3DObject/Stereo-Camera)
+- 🤝 I’m looking for help with [AUV_Docking Simulator](https://github.com/JustA3DObject/JustAnother3DSimulator)
 
 - 👨‍💻 All of my projects are available at [JustAPortfolio](https://justa3dobject.github.io/JustAPortfolio.github.io/)
 
